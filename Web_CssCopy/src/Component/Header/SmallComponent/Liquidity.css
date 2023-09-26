@@ -1,0 +1,26 @@
+.liquidityDiv {
+    width: 8%;
+    height: 35%;
+    position: relative;
+    margin-left: 1%;
+}
+
+.aliquidity {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.recyecle {
+    width: 21%;
+    height: 75%;
+}
+
+.liquidity {
+    position: absolute;
+    left: 30%;
+    top: -5%;
+    color: black;
+    font-size: 14.5px;
+}
