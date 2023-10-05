@@ -20,7 +20,7 @@ function Header() {
           <Liquidity></Liquidity>
           <Earn></Earn>
         </div>
-        <div className="right">
+        <div className="right"> 
           <Faq></Faq>
           <ConnectWallet></ConnectWallet>
         </div>

@@ -1,0 +1,77 @@
+.white-dashboard-2 {
+    top: 51.5%;
+    left: 35.5%;
+    position: absolute;
+    width: 14.2%;
+    height: 55%;
+    background-color: white;
+    border-radius: 18px;
+}
+
+.white-dashboard-3 {
+    top: 51.5%;
+    left: 50.2%;
+    position: absolute;
+    width: 14.2%;
+    height: 55%;
+    background-color: white;
+    border-radius: 18px;
+}
+
+.logo_img {
+    position: absolute;
+    width: 23%;
+    height: 23%;
+    top: -7.3%;
+    left: 37%;
+    border-radius: 100%;
+}
+
+.h3_logoText {
+    font-size: 125%;
+    position: absolute;
+    top: 8%;
+    left: 26%;
+}
+
+.p_logoText {
+    position: absolute;
+    font-size: 15px;
+    top: 14%;
+    left: 13%;
+}
+
+.apy {
+    position: absolute;
+    font-size: 100%;
+    left: 42%;
+    top: 21.5%;
+    color: #308D8A;
+}
+
+
+.h1_apy {
+    position: absolute;
+    font-size: 270%;
+    top: 23%;
+    left: 26.5%;
+    color: #308D8A;
+    border-bottom: 5px dashed #308D8A;
+}
+
+
+.str_btn {
+    position: absolute;
+    width: 230%;
+    height: 70%;
+    top: 38.5%;
+    left: 7%;
+}
+
+
+.h2_what {
+    font-size: 115%;
+    position: absolute;
+    top: 50%;
+    left: 8%;
+}
