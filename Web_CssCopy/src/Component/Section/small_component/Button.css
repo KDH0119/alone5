@@ -1,0 +1,33 @@
+.function-btn {
+    margin-top: 1.6%;
+    width: 36.2%;
+    height: 14%;
+    background-color: #308D8A;
+    border-radius: 100px;
+}
+
+.function-btn:hover {
+    background-color: #237573;
+}
+
+.btn-a {
+    width: 100%;
+    height: 100%;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wallet-img {
+    margin-right: 2.5px;
+    width: 11%;
+    height: 51%;
+}
+
+.span-btn {
+    margin-left: 2.5px;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+}

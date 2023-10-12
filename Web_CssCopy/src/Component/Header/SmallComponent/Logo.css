@@ -1,0 +1,17 @@
+.logo {
+    width: 49.5%;
+    height: 39%;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+.alogo {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.logoDiv {
+    width: 100%;
+    height: 100%;
+}
