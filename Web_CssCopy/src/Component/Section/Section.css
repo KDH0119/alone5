@@ -1,0 +1,36 @@
+* {
+    font-family: 'Gantari', sans-serif;
+}
+
+.section {
+    width: 100%;
+    height: 108.1%;
+    position: absolute;
+    top: 9.382%;
+    background-color: #C8ECE1;
+}
+
+.mainStaking {
+    margin-top: 0.8%;
+    font-size: 36px;
+    text-align: center;
+    color: black;
+}
+
+
+.up {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recommended {
+    margin-left: 36.515%;
+    margin-top: 2%;
+}
+
+.down {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
