@@ -1,0 +1,154 @@
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    top: 117.5%;
+    z-index: -1;
+}
+
+.white {
+    width: 100%;
+    height: 22%;
+    background-color: #C8ECE1;
+}
+
+.left-right {
+    width: 100%;
+    height: 79.2%;
+    background-color: pink;
+    display: flex;
+}
+
+.footer-left {
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    position: relative;
+}
+
+.footer-right {
+    width: 60%;
+    height: 100%;
+    background-color: white;
+    position: relative;
+}
+
+.footer-contect {
+    width: 66%;
+    height: 55%;
+    background-color: white;
+    position: absolute;
+    left: 19%;
+    top: 10%;
+}
+
+.footer-a {
+    position: absolute;
+    width: 40%;
+    height: 23%;
+    left: 1.75%;
+    top: 11.6%;
+}
+
+.footer-logo {
+    width: 100%;
+    height: 100%;
+}
+
+.footer-p {
+    font-size: 100%;
+    position: absolute;
+    top: 39%;
+    left: 2%;
+    text-align-last: left;
+}
+
+.sns-img {
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top: 65%;
+    left: 7.8%;
+}
+
+.sns-logo {
+    width: 1%;
+    height: 20%;
+    margin-left: 0.5%;
+}
+
+.menu1 {
+    position: absolute;
+    left: 9.8%;
+    top: 13%;
+    width: 15%;
+    height: 50%;
+    background-color: white;
+    text-align-last: left;
+}
+
+h3 {
+    font-size: 125%;
+    color: black;
+}
+
+.menu2 {
+    width: 15%;
+    height: 50%;
+    top: 13%;
+    position: absolute;
+    background-color: white;
+    left: 43.77%;
+    text-align-last: left;
+}
+
+.menu3 {
+    width: 15%;
+    height: 50%;
+    top: 13%;
+    position: absolute;
+    background-color: white;
+    left: 74.27%;
+    text-align-last: left;
+}
+
+.menu-p {
+    font-size: 95%;
+}
+
+.menu-p:hover {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.Vote-img {
+    position: absolute;
+    width: 10.5%;
+    height: 9%;
+    top: 57%;
+    left: 23%;
+}
+
+.Forum-img {
+    position: absolute;
+    width: 10.5%;
+    height: 9%;
+    top: 76%;
+    left: 30%;
+}
+
+.Documentation-img {
+    position: absolute;
+    width: 10.5%;
+    height: 9%;
+    top: 57%;
+    left: 23%;
+}
+
+.Security-img {
+    position: absolute;
+    width: 10.5%;
+    height: 9%;
+    top: 76%;
+    left: 37%;
+}

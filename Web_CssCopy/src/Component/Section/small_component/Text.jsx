@@ -2,7 +2,6 @@ import React from "react";
 import "./Text.css";
 
 function Text({arr}){
-    console.log(arr);
     return <>
         <div className="text_aaa">
             {
